@@ -20,7 +20,7 @@
 ![roberts](https://github.com/techbuterbrod/ds_lab4/blob/master/output-operator-roberts.png)
 
 # scharr:
-![scharr]https://github.com/techbuterbrod/ds_lab4/blob/master/output-operator-scharr.png)
+![scharr](https://github.com/techbuterbrod/ds_lab4/blob/master/output-operator-scharr.png)
 
 # sobel:
 ![sobel](https://github.com/techbuterbrod/ds_lab4/blob/master/output-operator-sobel.png)
